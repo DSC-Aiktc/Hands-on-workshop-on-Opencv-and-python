@@ -10,3 +10,15 @@
 
 <h3>
 Day 2: In Day 2 we created a Cartoonize image of the image </h3>
+<h3>Topics covered</h3>
+  <ul>
+<li>What is Computervision?</li>
+<li> Introduction to OpenCV</li>
+<li> What is am Image</li>
+<li> Image Representation </li>
+<li> Image Processing</li>
+<li> Basic Operations (Blur, Mask , Resize etc)</li>
+<li> Create custom Cartoon Filters</li>
+<li> Basic of Tkinter </li>
+<li> UI App Cartoonizer (Tkinter + OpenCV)</li>
+  </ul>
