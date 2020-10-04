@@ -3,6 +3,7 @@
   <ul>
   <li> Normal Variable Declaration </li>
   <li> Loops and Condition </li>
+  <li> Data Structures </li>
   <li> Function and Class Declaration </li>
   <li> Importing modules and user defined class </li>
   <li> File Handling </li>
